@@ -15,29 +15,3 @@
  */
 
 
-body{
-  font-family: verdana, arial, helvetica, sans-serif;
-  font-size:13px;
-  line-height:18px;
-  margin:33px;
-}
-
-body{
-    display:block;
-}
-
-table{
-  display: table;
-  border-collapse: separate;
-  box-sizing: border-box;
-  text-indent: initial;
-  border-spacing: 2px;
-  border-color: gray;
-}
-
-
-tr{
-  display:table-row;
-  vertical-align:inherit;
-  border-color:inherit;
-}
