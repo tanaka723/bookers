@@ -10,7 +10,7 @@ class BooksController < ApplicationController
     render :index
     end
   end
-  
+
 
   def index
     @books = Book.all
